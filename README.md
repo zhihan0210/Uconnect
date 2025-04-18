@@ -1,20 +1,6 @@
 # Uconnect
 Implementation of [Uconnect: Synergistic Spectral CT Reconstruction With U-Nets Connecting the Energy Bins](https://ieeexplore.ieee.org/document/10308615)  
 
-# MHUconnect
-Implementation of [MHUconnect: Multi-Head U-Net Connecting All Energy Bins For Synergistic Spectral CT Reconstruction] (accepted by Fully3D 2025)
-
-# JTV (joint total variation)
-Implementation of JTV (https://ieeexplore.ieee.org/document/661180)
-
-# DTV (directional total variation)
-Implementation of [https://ieeexplore.ieee.org/document/661180](https://doi.org/10.1098/rsta.2020.0198)
-
-### Requirements
-* Python 3.*  
-* Tensorflow 2.*
-* Keras
-
 ### Citation
 
 ```
@@ -26,3 +12,23 @@ Implementation of [https://ieeexplore.ieee.org/document/661180](https://doi.org/
   publisher={IEEE}
 }
 ```
+
+# MHUconnect
+Implementation of MHUconnect: Multi-Head U-Net Connecting All Energy Bins For Synergistic Spectral CT Reconstruction (accepted by Fully3D 2025)
+
+### Citation
+
+```
+To be added later.
+```
+
+# JTV (joint total variation)
+Implementation of the idea of [Color TV: total variation methods for restoration of vector-valued images](https://ieeexplore.ieee.org/document/661180) and [Anisotropic diffusion of multivalued images with applications to color filtering](https://ieeexplore.ieee.org/document/541429)
+
+# DTV (directional total variation)
+Implementation of [Synergistic multi-spectral CT reconstruction with directional total variation](https://doi.org/10.1098/rsta.2020.0198)
+
+# Requirements
+* Python 3.*  
+* Tensorflow 2.*
+* Keras
